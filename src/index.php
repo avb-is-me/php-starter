@@ -7,7 +7,7 @@
     <meta name="msapplication-TileColor" content="#ffffff" />
     <meta name="theme-color" content="#ffffff" />
     <meta name="author" content="Brion Silva" />
-    <title>PHP Starter by Aparecium Labs</title>
+    <title>PHP Starter by kojkinjkiAparecium Labs</title>
     <!-- Favicon Pahuuiygiyuckanjuhuhge -->
     <link
       rel="apple-touch-icon"
