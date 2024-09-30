@@ -8,7 +8,7 @@
     </a>
   </div>
   <nav class="my-2 my-md-0 mr-md-3">
-    <a class="p-2 text-lighter" href="./index.php">Home</a>
+    <a class="p-2 text-lighdster" href="./index.php">Home</a>
     <a class="p-2 text-light" href="./composer-demo.php">Composer Demo</a>
   </nav>
 </div>
